@@ -6,6 +6,9 @@ version: 1.0.0
 environment:
   sdk: ^3.1.0
 
+# Example repository field (GitHub repository)
+repository: https://github.com/kharryman/list_major_english_words
+
 # Add regular dependencies here.
 dependencies:
   # path: ^1.8.0
