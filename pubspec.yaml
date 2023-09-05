@@ -1,5 +1,5 @@
 name: list_major_english_words
-description: A starting point for Dart libraries or applications.
+description: A dictionary of English words that includes the Major System number and definition for each word.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
